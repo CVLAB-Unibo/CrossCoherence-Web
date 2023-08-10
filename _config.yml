@@ -7,9 +7,9 @@ url: 'https://cvlab-unibo.github.io'
 baseurl:
 
 # Title of the Site
-title: Learning Depth Estimation for Transparent and Mirror Surfaces
+title: Looking at words and points with attention':' a benchmark for text-to-shape coherence
 # Description of the Site
-description: Accepted at ICCV2023
+description: ICCV workshop "AI for 3D Content Creation"
 # URL of Image of the Site
 site-image:
 # Keywords of the Site
