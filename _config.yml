@@ -7,9 +7,9 @@ url: 'https://cvlab-unibo.github.io'
 baseurl:
 
 # Title of the Site
-title: Looking at words and points with attention: a benchmark for text-to-shape coherence
+title: "Looking at words and points with attention: a benchmark for text-to-shape coherence"
 # Description of the Site
-description: ICCV workshop "AI for 3D Content Creation"
+description: ICCV 2023 workshop "AI for 3D Content Creation"
 # URL of Image of the Site
 site-image:
 # Keywords of the Site
