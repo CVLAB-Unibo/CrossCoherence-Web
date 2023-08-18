@@ -16,20 +16,20 @@
                     <br>
                     <div class="container columns is-centered">
                         <div>
-                          <B><a href="https://arxiv.org/abs/2307.15052"><font size = "+2">Learning Depth Estimation for Transparent and Mirror Surfaces</font></a><br></B>
-                          <B><i> Alex Costanzino*, Pierluigi Zama Ramirez*, Matteo Poggi*, Fabio Tosi, Stefano Mattoccia, Luigi Di Stefano</B></i>
+                          <B><a href="<my_arxiv_link>"><font size = "+2">Looking at words and points with attention: a benchmark for text-to-shape coherence</font></a><br></B>
+                          <B><i> Andrea Amaduzzi, Giuseppe Lisanti, Samuele Salti, Luigi Di Stefano</B></i>
                           <br>
                           <i><font size = "-1">*Equal Contribution</font></i>
                           <br>
                           <br>
                           <p>
-                            Inferring the depth of transparent or mirror (ToM) surfaces represents a hard challenge for either sensors, algorithms, or deep networks. 
-              
-                            We propose a simple pipeline for learning to estimate depth properly for such surfaces with neural networks, without requiring any ground-truth annotation. 
-                            We unveil how to obtain reliable pseudo labels by in-painting ToM objects in images and processing them with a monocular depth estimation model. 
-                            These labels can be used to fine-tune existing monocular or stereo networks, to let them learn how to deal with ToM surfaces. 
-                            
-                            Experimental results on the Booster dataset show the dramatic improvements enabled by our remarkably simple proposal.
+                            While text-conditional 3D object generation and manipulation have seen rapid progress, the evaluation of coherence between generated 3D shapes and input textual descriptions
+                            lacks a clear benchmark. The reason is twofold: a) the low quality of the textual descriptions in the only publicly available dataset of text-shape pairs; 
+                            b) the limited effectiveness of the metrics used to quantitatively assess such coherence. In this paper, we propose a comprehensive solution that addresses both weaknesses. 
+                            Firstly, we employ large language models to automatically refine textual descriptions associated with shapes. Secondly, we propose a quantitative metric to assess text-to-shape coherence,
+                            through cross-attention mechanisms. To validate our approach, we conduct a user study and compare quantitatively our metric with existing ones. 
+                            The refined dataset, the new metric and a set of text-shape pairs validated by the user study comprise a novel, fine-grained benchmark that we publicly release to foster research 
+                            on text-to-shape coherence of text-conditioned 3D generative models.
                           </div>
                         <div>
 
@@ -44,11 +44,11 @@
                 </h3>
                 <div class="has-text-left-desktop has-text-left-tablet has-text-left-fullhd has-text-left-widescreen form-group col-md-18 col-md-offset-0">
 <pre>
-@inproceedings{costanzino2023iccv,
-    title = {Learning Depth Estimation for Transparent and Mirror Surfaces},
-    author = {Costanzino, Alex and Zama Ramirez, Pierluigi and Poggi, Matteo and Tosi, Fabio and Mattoccia, Stefano and Di Stefano, Luigi},
-    booktitle = {The IEEE International Conference on Computer Vision},
-    note = {ICCV},
+@inproceedings{amaduzzi2023iccvw,
+    title = {Looking at words and points with attention: a benchmark for text-to-shape coherence},
+    author = {Amaduzzi, Andrea and Lisanti, Giuseppe and Salti, Samuele and Di Stefano, Luigi},
+    booktitle = {2023 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)},
+    note = {ICCVW},
     year = {2023},
 }
 </pre>

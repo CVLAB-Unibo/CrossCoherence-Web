@@ -13,7 +13,7 @@ description: ICCV 2023 workshop "AI for 3D Content Creation"
 # URL of Image of the Site
 site-image:
 # Keywords of the Site
-site-keywords: Deep Learning, Depth, Disparity, Segmentation, Monocular, Mono, Stereo, Transparent, Glass, Specular, Reflective, non-Lambertian
+site-keywords: Deep Learning, Generative models, 3D, Benchmark, Dataset, Metric
 # URL for the Image of custom Favicon
 favicon-url:
 
@@ -27,7 +27,7 @@ facebook_username:
 twitter_username:
 instagram_username:
 linkedin_username:
-github_username:  arcanoXIII/learning_depth_estimation_for_transparent_and_mirror_surfaces
+github_username:
 youtube_channel_id: 
 reddit_username:
 behance_username:
@@ -42,7 +42,7 @@ google-analytics:
 disqus-shortname: Depth4ToM
 
 # Name of the Author
-author-name: Alex Costanzino
+author-name: Andrea Amaduzzi
 # URL for the Image of the Author
 author-image:
 # 60 Words About the Author
